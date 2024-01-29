@@ -1,0 +1,121 @@
+@font-face {
+    font-family: 'flaticon_itco';
+    src: url('../fonts/flaticon_itco.ttf?19aa72d1e7692e18e87cd2855e9cbbee') format('truetype'), url('../fonts/flaticon_itco.woff?19aa72d1e7692e18e87cd2855e9cbbee') format('woff'),
+        url('../fonts/flaticon_itco.woff2?19aa72d1e7692e18e87cd2855e9cbbee') format('woff2'), url('../fonts/flaticon_itco.eot?19aa72d1e7692e18e87cd2855e9cbbee#iefix') format('embedded-opentype'),
+        url('../fonts/flaticon_itco.svg?19aa72d1e7692e18e87cd2855e9cbbee#flaticon_itco') format('svg');
+}
+
+i[class^='flaticon-']:before,
+i[class*=' flaticon-']:before {
+    font-family: flaticon_itco !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-play-button:before {
+    content: '\f101';
+}
+.flaticon-play-button-arrowhead:before {
+    content: '\f102';
+}
+.flaticon-earth-with-thin-waves-pattern:before {
+    content: '\f103';
+}
+.flaticon-circle-with-rhombs-pattern:before {
+    content: '\f104';
+}
+.flaticon-gmail-logo:before {
+    content: '\f105';
+}
+.flaticon-maps-and-flags:before {
+    content: '\f106';
+}
+.flaticon-call:before {
+    content: '\f107';
+}
+.flaticon-plus:before {
+    content: '\f108';
+}
+.flaticon-play:before {
+    content: '\f109';
+}
+.flaticon-rating:before {
+    content: '\f10a';
+}
+.flaticon-rating-1:before {
+    content: '\f10b';
+}
+.flaticon-user:before {
+    content: '\f10c';
+}
+.flaticon-management:before {
+    content: '\f10d';
+}
+.flaticon-menu:before {
+    content: '\f10e';
+}
+.flaticon-star:before {
+    content: '\f10f';
+}
+.flaticon-bullhorn:before {
+    content: '\f110';
+}
+.flaticon-security:before {
+    content: '\f111';
+}
+.flaticon-left-arrow:before {
+    content: '\f112';
+}
+.flaticon-dashboard:before {
+    content: '\f113';
+}
+.flaticon-app-development:before {
+    content: '\f114';
+}
+.flaticon-software-development:before {
+    content: '\f115';
+}
+.flaticon-minus:before {
+    content: '\f116';
+}
+.flaticon-content-management:before {
+    content: '\f117';
+}
+.flaticon-technical-support:before {
+    content: '\f118';
+}
+.flaticon-handshake:before {
+    content: '\f119';
+}
+.flaticon-download:before {
+    content: '\f11a';
+}
+.flaticon-ux:before {
+    content: '\f11b';
+}
+.flaticon-ux-design:before {
+    content: '\f11c';
+}
+.flaticon-right-arrow:before {
+    content: '\f11d';
+}
+.flaticon-chat:before {
+    content: '\f11e';
+}
+.flaticon-calendar:before {
+    content: '\f11f';
+}
+.flaticon-pattern:before {
+    content: '\f120';
+}
+.flaticon-system:before {
+    content: '\f121';
+}
+.flaticon-completed-task:before {
+    content: '\f122';
+}

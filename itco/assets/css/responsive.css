@@ -1,0 +1,938 @@
+/*--------------------------------------------------------------
+////////////////////////////////
+# Main Header All Responsice Css
+////////////////////////////////
+--------------------------------------------------------------*/
+
+@media only screen and (min-width: 1200px) and (max-width: 1730px) {
+    .logo-box-two {
+        width: 320px;
+    }
+
+    .main-header-two__inner {
+        padding-right: 60px;
+    }
+
+    .main-header-two__outer {
+        padding-left: 320px;
+    }
+
+    .main-header-two__bottom-right .contact-box {
+        display: none;
+    }
+
+    .main-header__language-switcher {
+        margin-right: 0px;
+        padding-right: 0px;
+        margin-right: 2px;
+    }
+
+    .sticky-menu .main-header-two__outer {
+        padding-left: 420px;
+    }
+
+    .logo-box-three {
+        left: 0px;
+        width: 240px;
+    }
+
+    .main-header-three__inner {
+        padding-left: 275px;
+    }
+    .hero-sec2:before {
+        top: -35%;
+        left: -25%;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .menu-area .navbar-wrap {
+        display: none !important;
+    }
+
+    .menu-area .mobile-nav-toggler {
+        display: flex;
+    }
+
+    .menu-nav__right {
+        margin-left: 50px;
+    }
+
+    .main-header-one__inner {
+        display: none;
+    }
+
+    .logo-box-one {
+        width: 200px;
+        height: 90px;
+    }
+
+    .main-header-two__inner {
+        padding-right: 0px;
+    }
+
+    .main-header-two__top {
+        display: none;
+    }
+
+    .main-header-two__bottom-right {
+        display: none;
+    }
+
+    .main-header-two__outer {
+        padding-right: 15px;
+    }
+
+    .logo-box-two {
+        height: 90px;
+    }
+
+    .logo-box-two:before {
+        border-bottom: 90px solid var(--thm-primary);
+    }
+
+    .main-header-three__top {
+        display: none;
+    }
+
+    .main-header-three__bottom-right {
+        display: none;
+    }
+
+    .main-header-three__inner {
+        padding-left: 0px;
+    }
+
+    .logo-box-three {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        width: 250px;
+        height: 120px;
+    }
+
+    .main-header-three .menu-area__inner {
+        padding-right: 15px;
+    }
+
+    .main-header-three {
+        position: relative;
+    }
+
+    .main-slider-three .image-layer {
+        top: 0px;
+    }
+    /******** Project sec ********/
+    .single-project-style2 .project-title {
+        padding: 16px 14px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .menu-area .navbar-wrap {
+        display: none !important;
+    }
+
+    .menu-area .mobile-nav-toggler {
+        display: flex;
+    }
+
+    .menu-nav__right {
+        margin-left: 50px;
+    }
+
+    .main-header-one__inner {
+        display: none;
+    }
+
+    .logo-box-one {
+        width: 200px;
+        height: 90px;
+    }
+
+    .main-header-two__inner {
+        padding-right: 0px;
+    }
+
+    .main-header-two__top {
+        display: none;
+    }
+
+    .main-header-two__bottom-right {
+        display: none;
+    }
+
+    .main-header-two__outer {
+        padding-right: 15px;
+    }
+
+    .logo-box-two {
+        height: 90px;
+    }
+
+    .logo-box-two:before {
+        border-bottom: 90px solid var(--thm-primary);
+    }
+
+    .main-header-three__top {
+        display: none;
+    }
+
+    .main-header-three__bottom-right {
+        display: none;
+    }
+
+    .main-header-three__inner {
+        padding-left: 0px;
+    }
+
+    .logo-box-three {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        width: 250px;
+        height: 120px;
+    }
+
+    .main-header-three .menu-area__inner {
+        padding-right: 15px;
+    }
+
+    .main-header-three {
+        position: relative;
+    }
+
+    .main-slider-three .image-layer {
+        top: 0px;
+    }
+}
+
+@media (max-width: 767px) {
+    .menu-area .navbar-wrap {
+        display: none !important;
+    }
+
+    .menu-area .mobile-nav-toggler {
+        display: flex;
+    }
+
+    .menu-nav__right {
+        display: none;
+    }
+
+    .main-header-one__inner {
+        display: none;
+    }
+
+    .logo-box-one {
+        width: 200px;
+        height: 90px;
+    }
+
+    .main-header-two__inner {
+        padding-right: 0px;
+    }
+
+    .main-header-two__top {
+        display: none;
+    }
+
+    .main-header-two__bottom-right {
+        display: none;
+    }
+
+    .main-header-two__outer {
+        padding-right: 15px;
+        padding-left: 305px;
+    }
+
+    .logo-box-two {
+        height: 90px;
+    }
+
+    .logo-box-two:before {
+        border-bottom: 90px solid var(--thm-primary);
+        border-right: 45px solid transparent;
+    }
+
+    .logo-box-two {
+        width: 270px;
+    }
+
+    .main-header-three__top {
+        display: none;
+    }
+
+    .main-header-three__bottom-right {
+        display: none;
+    }
+
+    .main-header-three__inner {
+        padding-left: 0px;
+    }
+
+    .logo-box-three {
+        position: relative;
+        top: 0px;
+        left: 0px;
+        width: 250px;
+        height: 120px;
+    }
+
+    .main-header-three .menu-area__inner {
+        padding-right: 15px;
+    }
+
+    .main-header-three {
+        position: relative;
+    }
+
+    .main-slider-three .image-layer {
+        top: 0px;
+    }
+}
+
+@media (max-width: 1199px) {
+    #sticky-header {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    }
+    .main-header-two #sticky-header {
+        background: var(--thm-green);
+    }
+    .sticky-menu {
+        background: var(--thm-green);
+    }
+
+    .menu-area__inner {
+        position: relative;
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+        align-items: center;
+    }
+    /********** Breadcumb section **********/
+    #site-breadcumb .site-breadcumb-wrapper {
+        padding: 180px 0 140px;
+    }
+    /********** Newslatter section **********/
+    .newslatter-sec .sec-content {
+        margin-left: 25px;
+    }
+    .newslatter-sec2 .sec-content {
+        margin-left: 0;
+        margin-right: 25px;
+    }
+    .Subscribe-form input.form-control {
+        padding: 11px 17px;
+    }
+    .Subscribe-form button {
+        margin-left: 18px;
+        padding: 11px 17px;
+    }
+    /********** Business section **********/
+    .company-qinfo-raaper .single-info {
+        padding: 14px 45px;
+    }
+    /********** Service section **********/
+    .service-cat-sec .single-service {
+        margin-bottom: 24px;
+    }
+    .service-cat-sec {
+        margin-top: 0;
+        margin-bottom: -24px;
+        padding-top: 140px;
+    }
+    /********** Service-Details-Page **********/
+    .sidebar-item:first-child {
+        margin-top: 60px;
+    }
+    /********** Faq section **********/
+    .faq-sec .sec-images .sec-img-one {
+        border-radius: 160px 0px;
+    }
+    /********** Footer section **********/
+    .footer-sec .footer-widget.pages-links {
+        margin-left: 0;
+    }
+}
+
+/*--------------------------------------------------------------
+///////////////////////////
+# Common Responsice Css
+///////////////////////////
+--------------------------------------------------------------*/
+@media (max-width: 991px) {
+    /* Comon Css */
+    .sec-ptb {
+        padding: 100px 0;
+    }
+    .sec-pt {
+        padding-top: 100px;
+    }
+    .sec-title {
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .sec-sub-title {
+        padding-bottom: 10px;
+    }
+    .tab-col-gap {
+        margin-top: 50px;
+    }
+    .pt-5 {
+        padding-top: 1.5rem !important;
+    }
+    .mb-5 {
+        margin-bottom: 1.5rem !important;
+    }
+}
+@media (max-width: 767px) {
+    /* Comon Css */
+    .sec-ptb {
+        padding: 80px 0;
+    }
+    .sec-pt {
+        padding-top: 80px;
+    }
+    .sec-sub-title {
+        font-size: 18px;
+    }
+    .sec-title {
+        font-size: 36px;
+        line-height: 48px;
+    }
+}
+/*--------------------------------------------------------------
+///////////////////////////
+#All Responsice Css
+///////////////////////////
+--------------------------------------------------------------*/
+
+@media (max-width: 991px) {
+    /********** Breadcumb section **********/
+    #site-breadcumb .site-breadcumb-wrapper {
+        padding: 140px 0 100px;
+    }
+    .breadcumb-content h1.breadcumb-title {
+        font-size: 54px;
+    }
+    /********** Hero section **********/
+    .hero-ptb {
+        padding: 220px 0 110px;
+    }
+    .hero-content {
+        margin-right: 0;
+    }
+    .hero-content h1.hero-title {
+        font-size: 3.5rem;
+    }
+    .hero-content .hero-team-info {
+        margin-top: 60px;
+    }
+    .hero-style1,
+    .hero-style2 {
+        margin-top: 70px;
+        width: 96%;
+    }
+    .hero-style1::before {
+        right: -4%;
+        left: inherit;
+    }
+    .hero-images .feature-two {
+        display: none;
+    }
+    .hero-sec2::before,
+    .hero-content-style1::after {
+        display: none;
+    }
+    /********** About section **********/
+    .about-sec .sec-content {
+        margin-left: 0px;
+    }
+    .about-sec3 .sec-images {
+        margin-left: 0;
+    }
+    /********** Service section **********/
+    .service-lists-style1 .single-service-content h4 {
+        font-size: 28px;
+        line-height: 48px;
+    }
+    .service-lists-style1 .single-service {
+        padding: 44px 0px;
+    }
+
+    /* Service-Home2 */
+    .service-sec2 {
+        padding-bottom: 76px;
+    }
+    .single-service-style2 {
+        margin-bottom: 24px;
+    }
+    .service-cat-sec {
+        padding-top: 100px;
+    }
+
+    /********** Newslatter section ********/
+    .video-sec .video-sec-overlay,
+    .video-sec2 .video-sec-overlay {
+        padding: 100px 0px;
+    }
+    .newslatter-sec .sec-content {
+        margin-left: 0;
+        padding: 80px 0;
+        text-align: center;
+    }
+    .newslatter-sec2 .sec-content {
+        margin-right: 0;
+    }
+    .Subscribe-form input.form-control {
+        padding: 11px 20px;
+    }
+    .Subscribe-form button {
+        margin-left: 24px;
+        padding: 11px 28px;
+    }
+    .newslatter-sec .Subscribe-form {
+        justify-content: center;
+    }
+    .newslatter-style2 {
+        margin-bottom: -96px;
+    }
+    .footer2 .section-overlay {
+        padding-top: 196px;
+    }
+    .newslatter-style2 .newslatter-text {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    /*********** Project section ***********/
+    .project-slider .owl-nav {
+        position: relative;
+        margin-top: 50px;
+        right: 0;
+        top: inherit;
+        justify-content: center;
+    }
+    /* Project home2 */
+    .project-sec2 {
+        padding-bottom: 76px;
+    }
+    /********** Business section **********/
+    .business-sec .sec-images {
+        margin-left: 0;
+    }
+    .company-qinfo-raaper {
+        margin-top: 0;
+        padding: 86px 0;
+    }
+    .company-qinfo-raaper .single-info {
+        padding: 14px 0;
+        border-right: 1px solid rgba(255, 255, 255, 0.3);
+        width: 33%;
+        display: inline-block !important;
+        text-align: center;
+    }
+    .company-qinfo-raaper .single-info .info h2 span {
+        font-size: 3rem;
+    }
+    .company-qinfo-raaper .single-info .info-icon {
+        margin-bottom: 5px;
+    }
+    .company-qinfo-sec {
+        background: var(--thm-green);
+    }
+    /********** Pricing section **********/
+    .pricing-sec {
+        padding-bottom: 76px;
+    }
+    .single-pricing {
+        margin-bottom: 24px;
+    }
+    /* Brand section */
+    .brand-sec .sec-content {
+        margin-bottom: 32px !important;
+    }
+    /******* Team section *******/
+    .team-slider .owl-nav {
+        display: none !important;
+    }
+    .team-page-sec {
+        padding-bottom: 76px;
+    }
+    /******* Faq section *******/
+    .faq-sec .sec-images {
+        margin-left: 0;
+    }
+    /********* Video section *********/
+    .video-sec2 .video-sec-overlay {
+        padding: 175px 0px;
+    }
+    /********* Project section *********/
+    .project-slider2 .single-project-style2 {
+        margin-bottom: 0;
+    }
+    .project-slider2 .owl-nav {
+        position: relative;
+        margin-top: 50px;
+        right: 0;
+        top: inherit;
+        justify-content: center;
+    }
+    /********* Testimonial section *********/
+    .testimonial-slider .owl-dots,
+    .testimonial-slider3 .owl-dots {
+        margin-top: 50px;
+    }
+    .testimonial-slider2 .owl-nav {
+        top: 12%;
+    }
+    .single-testimonial-style2 .feedback {
+        padding-bottom: 80px;
+    }
+    .single-testimonial-style2 .feedback p {
+        font-size: 24px;
+    }
+    .testimonial-page-sec {
+        padding-bottom: 76px;
+    }
+
+    /********** Blog section **********/
+    .blog-sec .blog-left-box {
+        margin-bottom: 50px;
+    }
+    .blog-sec3 {
+        padding-bottom: 76px;
+    }
+    .blog-sec3 .blog-item {
+        margin-bottom: 24px;
+    }
+    .blog-item-details .blog-title h3 {
+        font-size: 48px !important;
+        line-height: 60px !important;
+    }
+    /******* Team Full_Bio section *******/
+    .team-fbio-sec .member-fbio,
+    .team-fbio-sec .progressbar-tooltip {
+        margin-left: 0;
+    }
+    .team-fbio-sec .team-fbio-hr {
+        margin: 50px 0 50px;
+    }
+    /******* Contact Page section *******/
+    .contact-map-sec iframe {
+        height: 500px;
+    }
+}
+@media (max-width: 767px) {
+    /********** Breadcumb section **********/
+    #site-breadcumb .site-breadcumb-wrapper {
+        padding: 130px 0 80px;
+    }
+    .breadcumb-content h1.breadcumb-title {
+        font-size: 42px;
+    }
+    /********** Hero section **********/
+    .hero-ptb {
+        padding: 180px 0 90px;
+    }
+    .hero-content h1.hero-title {
+        font-size: 42px;
+    }
+    .br-style1 {
+        border-radius: 0px 140px 0px 160px;
+    }
+    .br-style1::before {
+        border-radius: 0px 140px 0px 160px;
+        top: -20px;
+        left: 20px;
+    }
+    .hero-content .hero-team-info .total-team-count span {
+        font-size: 26px;
+    }
+    .hero-content .hero-team-info {
+        margin-top: 50px;
+    }
+    /********** Service section **********/
+    .service-lists-style1 .single-service-icon {
+        width: 76px;
+        height: 76px;
+        margin-right: 20px;
+    }
+    .service-lists-style1 .single-service-icon i {
+        font-size: 42px;
+    }
+    .service-lists-style1 .single-service:first-child .single-service-content a {
+        top: 5%;
+    }
+    .service-lists-style1 .single-service-content a {
+        font-size: 28px;
+        top: 26%;
+    }
+    .service-lists-style1 .single-service-content h4 {
+        font-size: 24px;
+        line-height: 44px;
+    }
+    .service-lists-style1 .single-service {
+        padding: 34px 0px;
+    }
+    .service-cat-sec {
+        padding-top: 80px;
+    }
+
+    /********** Service home2 ***********/
+    .service-sec2 {
+        padding-bottom: 56px;
+    }
+    /********** Service-Details-Page ***********/
+    .service-details-content .info-part {
+        margin-bottom: 35px;
+    }
+    /********** Service-Details-Page ***********/
+    .sidebar-item:first-child {
+        margin-top: 50px;
+    }
+    .sidebar-item {
+        margin-bottom: 30px;
+        padding: 25px;
+    }
+    .blog-pagination ul li.pagination-item a {
+        height: 44px;
+        width: 44px;
+    }
+    /****** Team section *********** */
+    .team-page-sec {
+        padding-bottom: 56px;
+    }
+    /********** Newslatter section *********** */
+    .video-sec .video-sec-overlay,
+    .video-sec2 .video-sec-overlay {
+        padding: 80px 0px;
+    }
+    .newslatter-sec .sec-content {
+        padding: 60px 0;
+    }
+    .newslatter-sec .sec-content h2.sec-title {
+        font-size: 38px;
+        line-height: 54px;
+    }
+    .footer2 .section-overlay {
+        padding-top: 176px;
+    }
+
+    /********** Business section **********/
+    .company-qinfo-raaper {
+        padding: 60px 0;
+    }
+    .company-qinfo-raaper .single-info {
+        padding: 20px 0;
+        border-right: inherit;
+        width: 100%;
+    }
+    .company-qinfo-raaper .single-info .info h2 span {
+        font-size: 2.5rem;
+    }
+
+    .blog-item .img-box {
+        height: 100%;
+    }
+    /********** Pricing section **********/
+    .pricing-sec {
+        padding-bottom: 56px;
+    }
+    /****** Project section ******/
+    .project-sec2 {
+        padding-bottom: 56px;
+    }
+    /********* Testimonial section *********/
+    .single-testimonial-style2 .feedback p {
+        font-size: 20px;
+        line-height: 36px;
+    }
+    .single-testimonial-style2 .feedback {
+        padding-bottom: 70px;
+    }
+
+    .testimonial-page-sec {
+        padding-bottom: 56px;
+    }
+    /********* Blog section *********/
+    .blog-sec3 {
+        padding-bottom: 56px;
+    }
+
+    .blog-page-sec .blog-item {
+        margin-bottom: 50px;
+    }
+    .blog-page-sec .blog-btn {
+        margin-top: 35px;
+    }
+    .blog-recent-post .blog-item {
+        margin-bottom: 20px;
+    }
+    .blog-item-details .blog-title h3 {
+        font-size: 36px !important;
+        line-height: 48px !important;
+    }
+    .blog-tags-share {
+        display: block;
+    }
+    .blog-tags-share .blog-tags:first-of-type {
+        margin-bottom: 20px;
+    }
+    .blog-autor-bio {
+        flex-direction: column;
+    }
+    .blog-autor-bio .avater-content {
+        text-align: center;
+    }
+    .blog-autor-bio .avater-content ul.autor-social {
+        position: relative;
+        justify-content: center;
+        top: inherit;
+        right: inherit;
+        margin-bottom: 4px;
+        margin-top: -8px;
+    }
+    .comment-item .post-comment {
+        display: block;
+    }
+    .comment-item .post-comment .comment-content {
+        margin-left: 0;
+    }
+    /********* Contact page *********/
+    form.itco-cform .contact-field {
+        margin-bottom: 18px;
+    }
+    form.itco-cform .contact-field input,
+    form.itco-cform .contact-field input textarea {
+        padding: 10px 20px;
+    }
+    .contact-map-sec iframe {
+        height: 400px;
+    }
+}
+
+@media (max-width: 576px) {
+    /******** Breadcumb section ********/
+    #site-breadcumb .breadcumb-content {
+        flex-direction: column;
+    }
+    #site-breadcumb .breadcumb-content .page-navigator {
+        margin-left: inherit;
+        margin-top: 10px;
+    }
+    /******** Hero section ********/
+    .hero-content .hero-team-info {
+        width: 100%;
+    }
+    /******** About section ********/
+    .about-sec2 .sec-images .sec-img-info {
+        height: 216px;
+        width: 200px;
+    }
+    .about-sec2 .sec-images .sec-img-info span {
+        font-size: 56px;
+        margin-bottom: 26px;
+    }
+    .about-sec3 .sec-images .sec-img-two {
+        width: 55%;
+    }
+    /******** Newslatter section ********/
+    .newslatter-style2 {
+        padding: 28px 20px;
+    }
+    .newslatter-style2 .newslatter-text {
+        font-size: 24px;
+        margin-bottom: 24px;
+    }
+    .newslatter .Subscribe-form button {
+        margin-top: 3px !important;
+        padding: 8px 28px !important;
+    }
+    /******** Faq section ********/
+    .faq-sec #accordion h4.accordion-title {
+        font-size: 18px;
+        border: 1px solid rgba(56, 56, 56, 0.1);
+    }
+    .faq-sec .sec-images .sec-img-one {
+        border-radius: 160px 0px;
+    }
+    /********* Video section *********/
+    .video-sec2 .video-sec-overlay {
+        padding: 150px 0px;
+    }
+    .Subscribe-form input.form-control {
+        padding: 13px 20px !important;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .Subscribe-form button {
+        margin-left: 0;
+    }
+    /********* service section *********/
+    .single-service-style2 .content-box .single-service-content a.read-more {
+        margin-top: 18px;
+    }
+    /********* Testimonial section *********/
+    .testimonial-slider2 .owl-nav {
+        display: none;
+    }
+    .single-testimonial-style2 .feedback {
+        padding-bottom: 60px;
+    }
+
+    .single-testimonial-style3 {
+        flex-direction: column;
+    }
+    .single-testimonial-style3 .feedback {
+        width: 100%;
+        margin-right: 0;
+    }
+    .single-testimonial-style3 .feedback .rating i {
+        float: left;
+        margin-right: 3px;
+    }
+    .single-testimonial-style3 .customar-info {
+        width: 100%;
+    }
+    /********* Blog section *********/
+
+    .blog-sidebar-box-item .content-box {
+        width: 100%;
+        margin: 10px 0 0;
+    }
+    .blog-item .content-box .meta-box ul.meta-info {
+        margin-bottom: 10px;
+    }
+    .blog-item .content-box .btn-box {
+        margin-top: 10px;
+    }
+    .blog-left-box .content-box .title-box h3 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .blog-sidebar-box-item {
+        padding-bottom: 26px;
+    }
+
+    .blog-item .content-box {
+        margin: 22px 0 0;
+    }
+    .blog-item .content-box .title-box h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    /********* Contact section *********/
+    .contact-map-sec iframe {
+        height: 300px;
+    }
+    /********* Footer section *********/
+    .footer-widget h4.footer-widget-title {
+        margin-bottom: 24px;
+        font-size: 24px;
+        line-height: 38px;
+    }
+    .footer-recent-post .blog-sidebar-box-item .content-box {
+        margin: 0 0 0 15px;
+    }
+}
