@@ -2542,7 +2542,7 @@ label {
 }
 
 .footer-widget {
-  color: var(--thm-white);
+  color: var(--thm-);
   margin-bottom: 40px;
 }
 .footer-widget .footer-widget-logo {
@@ -2552,7 +2552,7 @@ label {
   margin-bottom: 30px;
   font-size: 26px;
   line-height: 42px;
-  color: var(--thm-white);
+  color: var(--thm-body-font-color);
 }
 .footer-widget .footer-widget-content .footer-social-icon {
   margin-top: 30px;
@@ -2560,7 +2560,7 @@ label {
 .footer-widget .footer-widget-content .footer-social-icon a {
   height: 42px;
   width: 42px;
-  border: 1px solid var(--thm-white);
+  border: 1px solid var(--thm-black);
   border-radius: 50%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -2572,7 +2572,7 @@ label {
       -ms-flex-align: center;
           align-items: center;
   margin-right: 12px;
-  color: var(--thm-white);
+  color: var(--thm-body-font-color);
   -webkit-transition: all 0.1s linear;
   transition: all 0.1s linear;
 }
