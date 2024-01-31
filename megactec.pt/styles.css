@@ -2534,7 +2534,7 @@ label {
 .footer-sec .footer-hr {
   margin-bottom: 0;
   margin-top: 40px;
-  border: 1px solid rgba(255, 255, 255, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.577);
 }
 
 .footer-widget.pages-links {
@@ -2587,7 +2587,7 @@ label {
   margin-bottom: 12px;
 }
 .footer-widget .footer-widget-content .footer-links ul li a {
-  color: var(--thm-white);
+  color: var(--thm-black);
   -webkit-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
@@ -2616,18 +2616,18 @@ label {
   margin-right: 0;
 }
 .footer-recent-post .blog-sidebar-box-item .content-box .meta-box ul.meta-info li span a {
-  color: var(--thm-white);
+  color: var(--thm-black);
 }
 .footer-recent-post .blog-sidebar-box-item .content-box .title-box h3 {
   font-size: 18px;
   line-height: 30px;
   font-weight: 600;
   margin-bottom: 0;
-  color: var(--thm-white);
+  color: var(--thm-black);
 }
 
 .footer-copyright-text p {
-  color: var(--thm-white);
+  color: var(--thm-body-font-color);
   padding: 30px 0;
 }
 .footer-copyright-text p a {
