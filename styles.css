@@ -51,6 +51,7 @@
   --thm-heading-font-weight: 700;
   --thm-primary: #164343;
   --thm-secondary: #16a571;
+  --thm-secondary-orange: #ff9017;              /* new color */
   --thm-body-background: #ffffff;
   --thm-bg-white: #ffffff;
   --thm-bg-ling-green: #e3f9f5;
@@ -58,6 +59,9 @@
   --thm-black: #101010;
   --thm-green: #164343;
   --thm-teal: #16a571;
+  --thm-gray70: #4d4d4d;                        /* new color */
+  --thm-orange: #ff9017;                        /* new color */
+
 }
 
 body {
@@ -882,6 +886,7 @@ label {
   height: 100%;
   width: 100%;
   background: rgba(22, 67, 67, 0.7);
+  background: rgba(77, 77, 77, 1); 
 }
 .hero-slider-item .hero-content {
   margin: 0 5%;
