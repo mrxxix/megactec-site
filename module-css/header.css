@@ -286,9 +286,9 @@
   line-height: 1;
   color: var(--thm-primary);
   display: none;
-  padding: 29px 0 30px;
-  margin: 0 20px;
-  z-index: 5;
+  padding: 17px 0 17px;
+  margin: 0 8px;
+  z-index: 2;
 }
 .menu-area .mobile-nav-toggler i {
   color: var(--thm-white);
