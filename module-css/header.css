@@ -886,7 +886,7 @@
   color: var(--thm-teal);
 }
 .main-header-two .main-header-one__bottom {
-  background: var(--thm-green);
+  background: var(--thm-gray70);
 }
 .main-header-two .main-header-one__bottom .navbar-wrap ul li a {
   color: rgba(255, 255, 255, 0.8);

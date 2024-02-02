@@ -51,6 +51,7 @@
   --thm-heading-font-weight: 700;
   --thm-primary: #164343;
   --thm-secondary: #16a571;
+  --thm-primary-gray: #4d4d4d;                  /* new color */
   --thm-secondary-orange: #ff9017;              /* new color */
   --thm-body-background: #ffffff;
   --thm-bg-white: #ffffff;
@@ -325,7 +326,7 @@ h6 {
   overflow: hidden;
   padding: 12px 30px;
   background-color: transparent;
-  border: 2px solid var(--thm-teal);
+  border: 2px solid var(--thm-orange);
   color: var(--thm-white);
   font-size: 18px;
   line-height: 30px;
@@ -345,7 +346,7 @@ h6 {
   content: "";
   display: block;
   position: absolute;
-  background: var(--thm-teal);
+  background: var(--thm-orange);
   z-index: 1;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -368,7 +369,7 @@ h6 {
 }
 
 .thm-btn:hover {
-  color: var(--thm-teal);
+  color: var(--thm-orange);
 }
 
 .thm-btn i {
