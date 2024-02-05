@@ -260,7 +260,7 @@ h6 {
   border-radius: 10px !important;
 }
 .br-style2::before {
-  border: 2px solid rgba(22, 67, 67, 0.12);
+  border: 2px solid rgba(255, 144, 67, 0.4);
   border-radius: 10px !important;
 }
 
@@ -325,7 +325,7 @@ h6 {
           align-items: center;
   overflow: hidden;
   padding: 12px 30px;
-  background-color: transparent;
+  background-color: rgba(255, 255, 255, 0.8);
   border: 2px solid var(--thm-orange);
   color: var(--thm-white);
   font-size: 18px;
@@ -369,7 +369,7 @@ h6 {
 }
 
 .thm-btn:hover {
-  color: var(--thm-body-background);
+  color: var(--thm-primary);
 }
 
 .thm-btn i {
