@@ -49,10 +49,11 @@
   --thm-heading-font: "Outfit", sans-serif;
   --thm-heading-font-color: #101010;
   --thm-heading-font-weight: 700;
-  --thm-primary: #673f25;                       /* #164343 */
-  --thm-secondary: #ff9017;                     /* #16a571 */
+  --thm-primary: #FF9017;                       /* #164343 */
+  --thm-secondary: #999999;                     /* #16a571 */
   --thm-primary-gray: #4d4d4d;                  /* new color */
   --thm-secondary-orange: #ff9017;              /* new color */
+  --thm-accent: #ffb667;
   --thm-body-background: #ffffff;
   --thm-bg-white: #ffffff;
   --thm-bg-ling-green: #f9efe3;                 /* #e3f9f5 */
@@ -60,7 +61,7 @@
   --thm-black: #101010;
   --thm-green: #4e4e4e8e;                       /* #164343 */
   --thm-teal: #ff9017;                     /* #16a571 */
-  --thm-gray70: #4d4d4d;                        /* new color */
+  --thm-gray70: #6d6d6d86;                        /* new color */
   --thm-orange: #ff9017;                        /* new color */
 }
 
@@ -198,7 +199,7 @@ h6 {
 }
 
 .bg-light-greem {
-  background-color: var(--thm-bg-ling-green);
+  background-color: var(--thm-body-background);
 }
 
 .hero-ptb {
@@ -368,7 +369,7 @@ h6 {
 }
 
 .thm-btn:hover {
-  color: var(--thm-orange);
+  color: var(--thm-body-background);
 }
 
 .thm-btn i {

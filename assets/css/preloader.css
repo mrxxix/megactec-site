@@ -4,7 +4,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: #164343;
+    background: #ffffff;
     z-index: 999999;
 }
 #loader {
@@ -17,7 +17,7 @@
     margin: -75px 0 0 -75px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #fcf7e9;
+    border-top-color: #ff9017;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
 }
@@ -30,7 +30,7 @@
     bottom: 5px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #fcf7e9;
+    border-top-color: #ff9017;
     -webkit-animation: spin 3s linear infinite;
     animation: spin 3s linear infinite;
 }

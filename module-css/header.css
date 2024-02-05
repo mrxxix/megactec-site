@@ -480,7 +480,7 @@
   bottom: 0;
   right: 0;
   height: 4px;
-  background: var(--thm-secondary);
+  background: var(--thm-primary);
   border-radius: 5px 5px 0px 0px;
   -webkit-transition: -webkit-transform 700ms ease;
   transition: -webkit-transform 700ms ease;
@@ -846,7 +846,7 @@
 .main-header-one__bottom-right .search-box a {
   position: relative;
   display: block;
-  color: #011c39;
+  color: #01390e;
   font-size: 27px;
   line-height: 27px;
   font-weight: 700;
@@ -893,7 +893,7 @@
 }
 .main-header-two .main-header-one__bottom .navbar-wrap > ul > li.active > a,
 .main-header-two .main-header-one__bottom .navbar-wrap > ul > li:hover > a {
-  color: rgb(255, 255, 255);
+  color: var(--thm-primary);
 }
 .main-header-two .main-header-one__bottom .navbar-wrap > ul > li.menu-item-has-children.active > a::after {
   color: rgb(255, 255, 255);
