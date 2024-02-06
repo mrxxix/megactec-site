@@ -1182,6 +1182,9 @@ label {
   margin-top: 36px;
   display: block;
 }
+rect {
+  fill: #ff0000;
+}
 .single-service-style2 .content-box .single-service-icon i {
   font-size: 80px;
   color: var(--thm-teal);
