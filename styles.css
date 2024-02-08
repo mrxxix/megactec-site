@@ -2056,7 +2056,7 @@ rect {
 .single-team .member-info {
   position: relative;
   padding: 20px 30px 30px;
-  background: var(--thm-white);
+  background: #9c9c9c;
   text-align: center;
 }
 .single-team .member-info h3.member-name {
@@ -2064,6 +2064,7 @@ rect {
   line-height: 42px;
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
+  color: white
 }
 .single-team:hover ul.team-social {
   top: 0;
