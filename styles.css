@@ -2130,7 +2130,7 @@ rect {
   margin: 0 5px 20px;
   border: none;
 }
-
+/*
 .accordion-content #accordion-content-link .accordion-content-link {
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -2142,7 +2142,7 @@ rect {
   transition: all 0.3s linear;
   color: rgb(98, 0, 255)
 }
-
+*/
 .faq-sec #accordion .accordion-content:last-child {
   margin-bottom: 0;
 }
