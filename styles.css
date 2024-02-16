@@ -2654,8 +2654,8 @@ rect {
   padding: 30px 0;
 }
 .footer-copyright-text p a {
-  font-weight: 500;
-  color: #0fc482;
+  font-weight: bold;
+  color: var(--thm-primary-gray);
 }
 
 .footer2 .section-overlay {
